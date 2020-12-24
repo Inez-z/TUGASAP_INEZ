@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\bin\Debug\tugasweek14.exe.config
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\bin\Debug\tugasweek14.exe
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\bin\Debug\tugasweek14.pdb
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\obj\Debug\tugasweek14.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\obj\Debug\tugasweek14.Form1.resources
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\obj\Debug\tugasweek14.Properties.Resources.resources
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\obj\Debug\tugasweek14.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\obj\Debug\tugasweek14.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\obj\Debug\tugasweek14.exe
+C:\Users\ASUS\source\repos\tugasweek14\tugasweek14\obj\Debug\tugasweek14.pdb
